@@ -1,2 +1,8 @@
 .DS_Store
 /.DS_Store
+#Ignore raw and processed data
+data/raw
+data/processed/
+*.csv
+*.xlsx
+*.json
